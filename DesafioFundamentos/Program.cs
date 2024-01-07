@@ -32,11 +32,11 @@ while (exibirMenu)
     switch (Console.ReadLine())
     {
         case "1":
-            es.AdicionarVeiculo();
+            es.AdicionarVeiculos();
             break;
 
         case "2":
-            es.RemoverVeiculo();
+            es.RemoverVeiculos();
             break;
 
         case "3":
